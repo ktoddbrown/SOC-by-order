@@ -1,0 +1,23 @@
+code	attribute	unit	profiles	layers	description
+BDFI	Bulk density fine earth	kg/dm³	20727	105848	Bulk density of the fine earth fraction < 2 mm (kg/dm3)
+BDWS	Bulk density whole soil	kg/dm³	25909	153568	Bulk density of the whole soil including coarse fragments (kg/dm3)
+TCEQ	Calcium carbonate equivalent total	g/kg	27809	115448	The content of carbonate in a liming material or calcareous soil calculated as if all of the carbonate is in the form of CaCO3 (g/kg in the fine earth fraction < 2 mm); also known as inorganic carbon
+CECX	Cation exchange capacity (CEC)	cmol(c)/kg	48461	273346	Capacity of the fine earth fraction < 2 mm to hold exchangeable cations, estimated by buffering the soil at specified pH (e.g. pH7 or pH8; cmolc/kg)
+CLAY	Clay total	g/100g	80082	408452	Gravimetric content of < 0.002 mm soil material in the fine earth fraction < 2 mm (g/100g)
+CFGR	Coarse fragments gravimetric total	g/100g	27050	159206	Gravimetric content of coarse fragments > 2 mm in the whole soil (g/100g)
+CFVO	Coarse fragments volumetric total	cm³/100cm³	37280	198534	Volumetric content of the coarse fragments > 2 mm in the whole soil (cm3/100cm3)
+ECEC	Effective cation exchange capacity (ECEC)	cmol(c)/kg	23189	102665	Capacity of the fine earth fraction < 2 mm to hold exchangeable cations at the pH of the soil (ECEC, cmolc/kg). Conventionally approximated by summation of exchangeable bases (Ca2+, Mg2+, K+, and Na+) plus 1 N KCl exchangeable acidity (Al3+ and H+) in acidic soils
+ELCO	Electrical conductivity	dS/m	28266	120039	Ability of a 1:x soil water extract to conduct electrical current (ECx, mS/m);  ECe  refers to values measured in a saturated soil extract
+ORGC	Organic carbon	g/kg	64118	315362	Gravimetric content of organic carbon in the fine earth fraction <2 mm (g/kg)
+PHCA	pH CaCl2	unitless	39074	237756	A measure of the acidity or alkalinity in soils, defined as the negative logarithm (base 10) of the activity of hydronium ions (H+) in a CaCl2 solution, as specified in the analytical method descriptions
+PHAQ	pH H2O	unitless	79118	407226	A measure of the acidity or alkalinity in soils, defined as the negative logarithm (base 10) of the activity of hydronium ions (H+) in water
+PHKC	pH KCl	unitless	19064	88127	A measure of the acidity or alkalinity in soils, defined as the negative logarithm (base 10) of the activity of hydronium ions (H+) in a KCl solution, as specified in the analytical method descriptions
+PHNF	pH NaF	unitless	4866	24917	A measure of the acidity or alkalinity in soils, defined as the negative logarithm (base 10) of the activity of hydronium ions (H+) in a NaF solution, as specified in the analytical method descriptions
+SAND	Sand total	g/100g	78402	398573	Larger than Y mm fraction of the < 2 mm soil material (g/100g); esd (equivalent spherical diameter), Y as specified in the analytical method descriptions
+SILT	Silt total	g/100g	79331	406502	0.002 mm to Y mm fraction of the <  2 mm soil material (g/100g); esd (equivalent spherical diameter), X resp. Y as specified in the analytical method descriptions
+CFAO	Soil classification FAO	unitless	24894	24894	Classification of the soil profile according to specified edition (year) of the FAO-Unesco Legend, up to soil unit level when available
+CSTX	Soil classification Soil taxonomy	unitless	21614	21614	Classification of the soil profile according to specified edition (year) of USDA Soil Taxonomy, up to subgroup level when available
+CWRB	Soil classification WRB	unitless	24628	24628	Classification of the soil profile according to specified edition (year) of the World Reference Base for Soil Resources (WRB), up to qualifier level when available
+TOTC	Total carbon	g/kg	14094	70687	Gravimetric content of organic carbon and inorganic carbon in the fine earth fraction < 2 mm (g/kg)
+WRGR	Water retention gravimetric	g/100g	28701	173972	Soil moisture content by weight, at the tension specified in the analytical method descriptions (g/100g)
+WRVO	Water retention volumetric	cm³/100cm³	17124	82695	Soil moisture content by volume, at the tension specified in the analytical method descriptions (cm3/100cm3)
